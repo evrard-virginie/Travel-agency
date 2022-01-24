@@ -1,2 +1,4 @@
 # Travel-agency
-Projet réalisé pendant ma formation de développeur web avec Udémy.
+Projet réalisé à titre d'exemple de présentation pour un site de voyage.
+Réaliser en HTML et CSS
+

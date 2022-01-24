@@ -1,5 +1,4 @@
 /* GENERAL */
-
 *
 {
     margin: 0;
@@ -10,7 +9,6 @@ body
     font-family: Arial,sans-serif;
     font-size: 15px;
 }
-
 h1, h2, h3, h4
 {
   color: #444;  
@@ -19,7 +17,6 @@ h1
 {
     font-family: 'Crete Round', serif;
     font-size: 45px;
-    
 }
 h2
 {
@@ -46,7 +43,6 @@ a
 {
     text-decoration: none;
     color: #444;
-    
 }
 .wrapper
 {
@@ -67,8 +63,8 @@ small
     font-size: 13px;
     font-style: italic;
 }
-/* HEADER */
 
+/* HEADER */
 header
 {
     height: 120px;
@@ -85,10 +81,8 @@ header nav
 }
 header nav ul li
 {
-    float: left;
     display: inline-block;
 }
-
 header nav ul li a
 {
     text-transform: uppercase;
@@ -98,12 +92,9 @@ header nav ul li a
 header nav ul li a:hover
 {
      color: #ff7a00;
- 
 }
 
-
 /*MAIN IMAGE*/
-
 #main-image
 {
     height: 580px;
@@ -134,8 +125,8 @@ header nav ul li a:hover
 {
     background: #02b8dd;  
 }
-/*STEPS*/
 
+/*STEPS*/
 #steps ul
 {
    margin: 80px 0; 
@@ -152,7 +143,6 @@ header nav ul li a:hover
 {
     text-transform: uppercase;
     margin-bottom: 20px;
-    
 }
 #steps p
 {
@@ -172,7 +162,6 @@ header nav ul li a:hover
 }
 
 /*POSSIBILITIES*/
-
 #possibilities
 {
     background-color: #efefef;
@@ -211,7 +200,6 @@ article h4
 {
     text-align: center;
     margin-bottom: 20px;
-    
 }
 .button-2
 {
@@ -228,7 +216,6 @@ article h4
 }
 
 /*CONTACT*/
-
 #contact
 {
     padding: 60px 0;
@@ -275,8 +262,8 @@ input[type="text"]
 {
     color: #fff;
     background-color: #444;
-  
 }
+
 /*footer*/
 footer
 {
@@ -296,8 +283,8 @@ footer h1
     padding-top: 30px;
     color: #777;
 }
-/*page avec video et texte*/
 
+/*page dsetination*/
 #invitation 
 {
     padding-top: 40px;
@@ -308,23 +295,17 @@ footer h1
     margin: 0 auto;
     padding: 0 10px;
 }
-}
-
 #invitation 
 {
    padding: 60px 0;
    text-align: center;
-
-
 }
-
 .typo
 {
     padding-top: 30px;
     font-family: 'Crete Round', serif;
     font-size: 20px;
     text-align: left;
-    
 }
 
 
