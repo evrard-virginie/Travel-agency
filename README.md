@@ -1,4 +1,5 @@
 # Travel-agency
-Projet réalisé à titre d'exemple de présentation pour un site de voyage.
-Réaliser en HTML et CSS
+ HTML / CSS /
+ Exemple de présentation d'un site pour une agence de voyage.
+
 
