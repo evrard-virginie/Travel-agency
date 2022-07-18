@@ -4,10 +4,14 @@
     margin: 0;
     padding: 0;
 }
+html {
+    height: 100%;
+}
 body
 {
     font-family: Arial,sans-serif;
     font-size: 15px;
+    height: 100%;
 }
 h1, h2, h3, h4
 {
@@ -269,6 +273,8 @@ footer
 {
     height: 260px;
     background-color: #444;
+    bottom: 0;
+    
 }
 footer h1
 {
@@ -286,28 +292,36 @@ footer h1
 
 /* page dsetination */
 /* texte presentation */
-#invitation 
+#titleDestination
 {
-    padding-top: 40px;
+    padding-top: 80px;
     font-family: 'Crete Round', serif;
     text-align: center;
     font-size: 30px;
     width: 940px;
-    margin: 0 auto;
+    margin: 0 auto 25px auto;
     padding: 0 10px;
 }
-#invitation 
+#textDestination
 {
    padding: 60px 0;
-   text-align: center;
 }
 .typo
 {
-    padding-top: 30px;
+    padding-top: 40px;
     font-family: 'Crete Round', serif;
     font-size: 20px;
     text-align: left;
 }
+#videoDestination {
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+
+
+
+
 
 
 
