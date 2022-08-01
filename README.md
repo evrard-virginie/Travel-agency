@@ -6,6 +6,7 @@ Utilisation de HTML et de CSS.
 
 ## Aperçu
 Aperçu de la page d'accueil 
+<br />
 ![Travel Agency](images/apercu_readme/accueil_1.png)
 ![Travel Agency](images/apercu_readme/accueil_2.png)
 ![Travel Agency](images/apercu_readme/accueil_3.png)
