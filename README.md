@@ -10,7 +10,7 @@ Aperçu de la page d'accueil
 ![Travel Agency](images/apercu_readme/accueil_1.png)
 ![Travel Agency](images/apercu_readme/accueil_2.png)
 ![Travel Agency](images/apercu_readme/accueil_3.png)
-
+## Aperçu version mobile
 ![Travel Agency](images/apercu_readme/accueil_mobile.png)
 
 ## Auteur
